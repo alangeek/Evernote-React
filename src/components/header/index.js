@@ -1,5 +1,5 @@
 import { Navbar, Container } from 'rbx';
-import logoImage from '../../assets/images/logo.png';
+import logoImage from '../../assets/images/notes.gif';
 import '../../styles/header.scss';
 
 function Header() {
