@@ -8,6 +8,13 @@ nav.navbar {
     img {
       height: 40px;
       margin-top: 15px;
+
+    }
+  }
+
+  .navbar-logged{
+    .navbar-menu{
+      background-color: $custom-color;  
     }
   }
 }
