@@ -11,10 +11,11 @@ nav.navbar {
 
     }
   }
+}
 
-  .navbar-logged{
-    .navbar-menu{
-      background-color: $custom-color;  
-    }
+.navbar-logged{
+  .navbar-menu{
+    background-color: $custom-color;  
   }
 }
+
